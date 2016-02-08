@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Learn English]]></title>
+        <description><![CDATA[Learn English]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 20:42:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Learning English]]></title>
+            <description><![CDATA[<article><h1>Learning English</h1><p>More and more people are realising that learning English isn't all about passing tests. </p></article>]]></description>
+            <link>undefinedlearning-english/index.html</link>
+            <guid isPermaLink="false">c81bc890-44d5-4736-a384-470c9581a6f7</guid>
+            <pubDate>Mon, 08 Feb 2016 20:42:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
