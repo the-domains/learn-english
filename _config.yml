@@ -1,0 +1,28 @@
+name: Learn English
+favicon: null
+layout_spectrum: 0.21388785331510007
+typography_spectrum: 0.2934466458391398
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.12114597274921834
+  lightness: 0.6643902133218944
+  saturation: 0.30313416197896004
+  rhythmicContrast: 0.29990105028264225
+purpose: []
