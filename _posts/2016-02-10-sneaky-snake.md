@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://learn-english-forum.org'
-  name: Learn English Forum
-  favicon: 'http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/learnenglish.vanillaforums.com/favicon_eea3c72c72fbfe22.ico'
-  domain: learn-english-forum.org
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://learn-english-forum.org/categories/sneaky-snake'
+inLanguage: en
+starred: false
 keywords:
   - words
   - calendar
@@ -18,17 +17,20 @@ keywords:
   - balmy
   - www
 description: 'This is an easy game (suitable for beginners). We will start with a word, and the next word has to begin with the last letter of the previous word. Words can be repeated, but if we end up in a loop (avoid words ending in x) we will begin a new game.'
-inLanguage: en
+datePublished: '2016-02-10T09:48:47.705Z'
+dateModified: '2016-02-10T08:45:15.138Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://learn-english-forum.org/categories/sneaky-snake'
 title: Sneaky Snake
-datePublished: '2016-02-10T08:34:27.430Z'
-dateModified: '2016-02-09T20:25:01.611Z'
 sourcePath: _posts/2016-02-10-sneaky-snake.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Learn English Forum
+  domain: learn-english-forum.org
+  url: 'http://learn-english-forum.org'
+  favicon: 'http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/learnenglish.vanillaforums.com/favicon_eea3c72c72fbfe22.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
