@@ -4,7 +4,7 @@
         <description><![CDATA[Learn English]]></description>
         <link>https://thegrid.ai/learn-english/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 09:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 14:19:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/learn-english/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Learning English]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/learn-english/learning-english/index.html</link>
             <guid isPermaLink="false">c81bc890-44d5-4736-a384-470c9581a6f7</guid>
             <pubDate>Tue, 09 Feb 2016 07:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Countries and travel]]></title>
+            <description><![CDATA[<article><h1>Countries and travel</h1><p>Where are you from? What is special about your country? Where have you travelled to and where do you plan to go? I'm in India right now and plan to travel around south India in the next couple of months before returning to Nepal in January where I tend to stay several months each year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d2007a09880bf7e205bbca1f2b0ba0ec2d08e69.png"></article>]]></description>
+            <link>http://learn-english-forum.org/discussion/23/countries-and-travel/p1</link>
+            <guid isPermaLink="false">d0181b8b-66b5-4b2b-a406-033225c69b71</guid>
+            <pubDate>Thu, 11 Feb 2016 14:19:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Question 106]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/learn-english/0c34f16c-29b1-40e2-8033-7db9d3b69306/index.html</link>
             <guid isPermaLink="false">0c34f16c-29b1-40e2-8033-7db9d3b69306</guid>
             <pubDate>Mon, 08 Feb 2016 21:34:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/Cancn90W8AE3Msi.png">]]></description>
-            <link>https://thegrid.ai/learn-english/38612a70-37e6-4f79-b654-41b6e13e698e/index.html</link>
-            <guid isPermaLink="false">38612a70-37e6-4f79-b654-41b6e13e698e</guid>
-            <pubDate>Mon, 08 Feb 2016 20:57:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
